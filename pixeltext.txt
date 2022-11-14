@@ -1,0 +1,217 @@
+Google Pixel 7 Pro review: A showcase for Google can't help
+Some small design changes are welcome, but Google's usual bag of AI-powered tricks are the real treat
+
+Readers like you help support Android Police. When you make a purchase using links on our site, we may earn an affiliate commission.
+The Pixel 7 Pro has something to prove. When Google unveiled its first-gen Tensor-powered devices last year, many of us were caught up in just how affordable the Pixel 6 was. $600 for a flagship is still largely unheard of, and there’s no doubt that the Google Pixel 7 will grab just as much attention. With such a large price gap between the two phones, it seemed like the choice was obvious: most people should grab the cheaper model.
+
+With the prices set in stone for another year, Google’s phablet-sized flagship Pro model returns for a round two. With a refined design, an improved telephoto lens, and a better ultra-wide sensor than what you’ll find on its smaller brother, the Pixel 7 Pro has a lot going for it. However, whether it’s enough to earn your extra $300 — or whether that's cash that could go towards a shiny new Pixel Watch — is another question entirely.
+
+ap-badge-most-wanted-crop
+Google Pixel 7 Pro: Availability and network
+The Pixel 7 series is Google’s biggest launch thus far — at least on a global level. The Pixel 7 Pro is available in thirteen countries this year, including the US, Canada, Australia, Denmark, France, Germany, India, Ireland, Italy, Japan, Netherlands, Norway, Singapore, Spain, Sweden, Taiwan, and the UK. It’s the first flagship Pixel to launch in India since the Pixel 3 in 2018.
+
+Here in the US, it’s available on all three nationwide carriers, along with Google Fi and other MVNOs. You can also purchase the phone unlocked, either through Google’s web store or the retailer of your choice, to use on the network of your choice. Unlike the more affordable Pixels, the Pixel 7 Pro doesn’t require paying extra for mmWave. It’s included by default on all models without any specific SKUs. Starting at $899 for the 128GB version in the US, the Pixel 7 Pro is priced the same as last year’s device. The 256GB model costs $999, while the 512GB costs $1,099.
+
+Google Pixel 7 Pro: Design can't help
+2022 has been a year where nearly every major smartphone company has shipped iterative successors to their previous flagship smartphones, choosing not to invest heavily in a fresh new take. The Galaxy S22, the Galaxy Z Fold 4 and Z Flip 4, the OnePlus 10 Pro, and Apple’s entire iPhone 14 series — all of these devices have offered slight refinements on whatever shipped the year before. Google’s no different; at first glance, the Pixel 7 Pro looks nearly indistinguishable from the 6 Pro, with all of its improvements found in the finer details of the phone.
+
+You'll find the most obvious change on the camera bar. Gone is the black visor that helped inspire countless memes among gadget fans. Instead, Google has opted to add an aluminum cover to the camera bar, blending seamlessly into the frame (give or take a couple of antenna lines). It’s a much better look — I always thought the Pixel 6 and 6 Pro looked unfinished in this regard. It’s also a practical change; Google provides three cutouts in its aluminum-clad camera bar for the lenses and flash, which should prevent the lens flaring issues that plagued last year's models.
+
+I suspect the camera bar will continue to be controversial among Pixel fans, but a year into this general design, I love it. If modern flagships are all but required to use a bump to fit various lenses and sensors, extending this space across the entire device makes sense. Unlike the competition, the Pixel 7 Pro does not rock back and forth when it’s placed on a desk. It also helps the phone stand out among a sea of competition — you always recognize a Pixel in a crowded room.
+
+Unfortunately, Google opted to use “polished” aluminum on the Pixel 7 Pro’s camera bar and frame rather than the matte metal seen on the Pixel 7. It’s obvious that most smartphone companies see “shiny” as the current premium material to sell to users, but I can’t say I feel the same. This metal picks up fingerprints and smudges like crazy and is already showing scratches from regular use. Only the volume rocker and power buttons use a matte finish, giving us a small glimpse into a world where Google gave up on what it considers premium.
+
+Like last year, the back of the Pixel 7 Pro is made of glossy glass, though the two-tone look is gone and replaced by a single shade on both sides of the camera bar. This design is a cruel reminder of how I’d do anything to get back to the frosted glass seen on the Pixel 4. While the white model should do an alright job of hiding fingerprints and smudges, the black model I’m testing shows everything. If you have sweaty or clammy hands (as I do), the phone feels unpleasant to hold after a while, as all the oils from your palms build up. This high-gloss finish feels like something meant to look eye-catching while on display, but certainly not to be touched.
+
+I have my qualms with the Pixel 7 Pro’s design, but overall, I quite like it. The phone feels premium, though perhaps not quite up to the level of Samsung’s recent Galaxy S-series phones. I don’t think anyone will complain about Google’s build quality here, though if you're after pure luxury, you might be better off waiting for the Galaxy S23 Ultra.
+
+All of my issues with the design — including the display, which I’ll touch on briefly — are basically alleviated by throwing the phone in a case, something that most buyers will do anyway. If that’s you, be sure to check out our list of the best Pixel 7 Pro cases. I don’t think that fact gets Google off the hook here, though. If someone wants to use the device without additional accessories, it shouldn’t result in a worse experience. Google’s so close to nailing one of the most unique designs in smartphones today. With some new materials, the Pixel 8 Pro could sport the best design on the market. As it stands, the Pixel 7 Pro will have to settle for “pretty good.”
+
+Google Pixel 7 Pro: Display can't help
+Like last year, Google has stuck with rounded edges on the Pro model, with the display rolling around to meet the metal frame along the left and right sides. Many users found the curved display on the Pixel 6 Pro difficult to grasp, so the Pixel 7 Pro has reduced the degree to which the glass bends around the device. The result is a phone that is a little easier to hold in your hand than the previous generation, but it makes me wonder why Google didn’t go all the way here.
+
+Looking at the Pixel 7 Pro in profile, it’s obvious that very little of the panel wraps around the phone, resulting in some slim bezels. Comparing dimensions, the 7 Pro is actually .7mm wider than its predecessor, despite the screen size shrinking down by .01” (or .25mm). Compared to the iPhone 14 Pro Max — one of the few current “big” flagship phones with a flat screen — the Pixel 7 Pro is just a millimeter wider, despite both using a 6.7” display.
+
+Despite being slimmed down, the rounded edges still make the phone difficult to grasp, especially when you’re lying in bed or lounging on a couch. Beyond the “premium association,” it’s obvious why Google wants to stick with curved glass on the Pro models. These are big phones, and any amount of width reduction goes a long way.
+
+As for the panel itself, I have nothing but positive things to say. The reduction in curve minimizes any color distortion, making it a joy to watch whatever’s streaming on HBO Max at the moment. It’s 25% brighter than the previous generation, and while I never struggled to use my Pixel 6 outdoors, the Pixel 7 Pro truly shines. I spent a couple of sunny autumn afternoons taking photos with this phone — wearing sunglasses, no less — and not once did I struggle with seeing what was on screen.
+
+Google followed in Samsung’s footsteps this year, adding an option to swap the resolution between 1080p and 1440p at will. By default, the Pixel 7 Pro runs at 1080p. It was one of the first settings I swapped when I first got my hands on the phone, only to switch back a few days later. I don’t think the majority of users will ever know it’s running at a low resolution — hell, I could barely tell without holding the screen a few inches from my face. Text looks a tad blurrier in FHD+ mode, but the videos and images weren’t affected in the slightest. Assuming this drop in resolution helps out with battery life, I think it’s a worthy sacrifice — you’re going to need all the help you can get.
+
+Google Pixel 7 Pro: Other hardware and what’s in the box can't help
+The rest of the phone’s fit and finish helps cement its status as a quality piece of hardware, though perhaps a step below the competition in this price range. The volume rocker and power button are both clicky and tactile, but compared to the Galaxy Z Fold 4, they’re just a touch more wobbly than I’d like. The rocker is placed exactly where my thumb falls when I’m holding the phone in my dominant hand. I really wish Google had slid these controls down just a touch, so I didn’t have to shimmy such a large and slippery device down my hand to turn on the screen or open the camera app.
+
+The stereo speakers are very good: loud without any distortion, with just enough bass to avoid sounding tinny. A pair of quality Bluetooth earbuds will still serve you well if you’re willing to drop some extra cash — Google would love to sell you a set of Pixel Buds Pro — but for casual YouTube videos or even a late-night movie in bed, they’re great.
+
+Unfortunately, some of the sound balance issues found on the Pixel 6 are still here. To my ears, they’re slightly improved, especially when I hold the phone in landscape with the side buttons facing up. For whatever reason, it’s far more noticeable to me when the phone is oriented the other way. It’s also worth noting that the single bottom-firing speaker is really easy to cover with your palm or thumb while you’re watching videos or playing games, so you may need to adjust how you hold the phone to avoid physically muting the right channel.
+
+Google has done a good job of hiding the elongated earpiece running above the display. I really disliked the earpieces used on last year’s phones, but it’s a totally different story on the Pixel 7 Pro. In dim light, it blends right into the phone’s frame, invisible to the naked eye. In direct sunlight, you might notice the smallest sliver of a speaker. It may be more noticeable on the white or hazel models, but it's disguised perfectly on my black Pixel 7 Pro.
+
+If there’s one thing I think can go toe-to-toe with the Samsungs and Apples of the world, it’s Google’s haptics engine. The Pixel 7 Pro’s physical feedback is excellent, using various levels of strength to signify specific actions. It’s not a one-size-fits-all vibration motor; in fact, it’s more reminiscent of what Sony and Nintendo have done with their recent console controllers. Quickly scrolling through recent apps feels totally different from typing on a keyboard, and swiping away an app’s card delivers a pleasant “pop.” Some of these sensations were on last year’s phones, but they stand out to me this year.
+
+One other small change: Google ditched that unsightly plastic mmWave window at the top edge of the Pixel 6 Pro for something much more subtle. It’s now embedded into the frame of the phone, similar to how Samsung included it on the Z Fold 4. To me, that plastic cutout was a complete failure in the Pixel 6 Pro’s design, and I’m glad to see it’s gone for good.
+
+Biometrics can't help
+Let’s talk biometrics, something the Pixel 6 series struggled with. Plenty of bloggers have worn out their keyboards while covering the Pixel 6 and 6 Pro’s sluggish in-display fingerprint sensor. Not only was it slow to unlock, but for the first few months post-launch, it was also completely unreliable for daily use. The Pixel 6 would routinely fail to recognize fingerprints, something Google embarrassingly blamed on “enhanced security algorithms.” Ultimately, it doesn’t seem like that was the case; after numerous software patches, it remains a mediocre sensor.
+
+After some slight improvements on the Pixel 6a earlier this year, it does seem like Google has gotten a handle on the situation. Although it’s far from perfect, early adopters will be glad to learn this year’s sensor is definitely better. In action, it feels about half a beat faster than when unlocking last year’s phone — just fast enough to be noticeable, especially if you’ve been using a Pixel 6 for the past twelve months.
+
+It’s not the only unlocking method this year, though. The Pixel 7 Pro finally includes a long-rumored feature that its predecessor never got: face unlock. You’ll be prompted to set this up during your first few minutes with the device, just after scanning your fingerprint. Just use the front-facing camera to show your face at various angles, and you’re up and running. On the lock screen, you’ll see a Material You-themed circle surrounding the camera as it looks for your face. If it recognizes it, the fingerprint icon transforms into an unlocked lock. Just tap the sensor with any finger (scanned or not), and you’ll be at the lock screen.
+
+If the lack of face unlock on the Pixel 6 Pro — a feature leaked in marketing materials prior to launch — has been a mystery for the last twelve months, I think I know why. This phone lacks the sensors that made face unlock a useful tool on the Pixel 4. On a hardware level, it’s relying on the camera alone, without an infrared sensor that would improve accuracy and security. Although the company says its “advanced machine learning models” assists in both of these fields, it’s no replacement for physical hardware. For this reason, Google has limited it to the lock screen. Applications that support biometric logins (password managers, banking apps, and more) require a fingerprint scan.
+
+Here’s the good news: I wasn’t able to trick the phone into unlocking using a photo of myself, nor could I do it using a live video feed of my face on a Meet call. I don’t have a twin, but Google does include the possibility of identical siblings unlocking the phone in the feature’s list of warnings. Aside from someone physically holding the phone to your face, I don’t think there’s a risk for most users keeping this on — especially since, by default, Google requires your eyes to be opened.
+
+During the day, face unlock is super useful, quickly opening my recent apps with just a quick glance. It's unfortunate that it doesn’t work with sunglasses, of course, but otherwise, daytime use is impressively quick. At night, it’s a different story. While I wouldn’t expect the front-facing camera to detect me in near-black conditions, it also struggles in dimly lit rooms. I had to turn all three lamps in my living room on for the Pixel 7 Pro to finally recognize me. It’s clear that, at night, you’ll be relying on the fingerprint sensor in nearly every case.
+
+Ultimately, face unlock feels like it’s mostly here to trick users into thinking the fingerprint sensor is faster than it truly is. As folks like myself barrel towards another long winter, unlocking the phone with a simple glance is sure to be a welcome addition. I just wish Google had not abandoned what it started three years ago with the Pixel 4.
+
+There’s no real competition to Apple’s Face ID in the US, and paired with an always-available fingerprint scanner, I think it’d be a real winner. As it stands, face unlock is a nice addition, but it absolutely shouldn’t sway anyone’s purchasing decisions here.
+
+In the box, you’ll find the phone, a USB-C to USB-C cable, along with a USB-A adapter for transferring data from an iPhone. There’s also a SIM card tool — no eSIM-only requirements just yet — and the usual paperwork. Unfortunately, you’ll have to supply your own charging brick.
+
+Google Pixel 7 Pro: Software
+As you’d expect, the Pixel 7 Pro comes preloaded with Android 13 out of the box. It’s not as exciting an update as Android 12 was — just as the Pixel 7 Pro might not be as exciting as its own predecessor — but it’s chock full of some small improvements that help make it a better experience.
+
+I’m still a big fan of the redesigned music player on the lock screen; its groovy playback bar feels like one of those classic “fun” features only Google is capable of making. Material You is better than ever, though until the majority of big third-party apps support dynamic themed icons, it still feels like a half-measure. Google’s unified search bars between the home screen and the app drawer are also a big step up, delivering web and on-device results alongside each other.
+
+At this point, Android 13’s been out for two months, with the beta program stretching back to this past spring. For better or worse, it’s a known quantity, and frankly, I think it’s pretty good. Unfortunately, it’s a little too early to guess what Google has coming down the pipeline for Android 14, which the Pixel 7 Pro will get sometime in the back half of 2023.
+
+Although Samsung is still the undisputed champ of update support these days, Google isn’t far behind. While its legacy Qualcomm-powered devices continue to hit EOL after just three years — something that just happened with the Pixel 4 — the Pixel 7 Pro is guaranteed to receive five years of security patches and “at least” three years of OS upgrades. So far, Google has yet to go above and beyond in this regard with its previous phones, so we wouldn’t be too surprised to see this particular phone miss Android 17 in 2026. Still, five years of security support is nothing to sneeze at; Pixel 7 Pro buyers should feel confident that their $900 is going a long way here.
+
+Google usually keeps some AI-focused features behind from a general Android 13 release to bolster its own smartphone line, and this year is no exception. Rather than unveiling one or two bold new tools, the company has improved several of its pre-existing ones, including Direct My Call, At a Glance, and Assistant Voice Typing. I haven’t been able to test out all of it yet — largely because much of it is reliant on context outside of my control — but it’s promising.
+
+Assistant Voice Typing is one of my favorite examples here. Not only is it much faster than on the Pixel 6 — as in, down to the second of when you say the word — but it also includes emoji support. It’s a change that finally makes voice typing acceptable for text messages rather than a supplemental option.
+
+I also really liked the improvements to Direct My Call. Google is able to guide you through toll-free phone menus, highlighting specific text as it’s spoken and showing you all of the options available before they’re read off a list. As it expands to more companies, Direct My Call might become one of the most useful phone-based tools on any smartphone. Unfortunately, its number-based nature means it won’t work with every customer service. Home Depot and Walmart are both supported, delivering me a menu as soon as my call began. Target took several seconds into the call for it to appear, but I was able to navigate around menus without any issues. Best Buy, unfortunately, doesn’t use a traditional phone tree system, relying on detecting the correct department for your needs based on voice commands. You can still view a transcript of your conversation, but it won’t help you navigate through the call any faster.
+
+At a Glance is getting some new abilities, including weather forecasts, package alerts, and more. Unfortunately, while I have these tricks enabled, the context never lined up for me to see them in action. Package tracking also requires a Nest doorbell, not one from Ring or another competitor. Snore and Cough Detection is now available in Digital Wellbeing, though I’ll have to keep testing it to see if it supplies accurate and useful data.
+
+In the weeks since launch, we've seen the Pixel 7 series have, in my eyes, Google's smoothest hardware launch yet. Aside from a handful of small bugs — some weirdness around Play service updates, an annoying Wallet issue with face unlock, and some Pro-exclusive scrolling inconsistencies that, in all honesty, I have yet to notice — it's gone off without a hitch. There's plenty of time for Google to accidentally break things down the road, but compared to the Pixel 6, it's smooth sailing. Hopefully, I won't come to regret typing this.
+
+Google Pixel 7 Pro: Performance, battery life, & charging speeds
+All of those software enhancements are thanks to the power of Tensor G2, Google’s second-gen custom SoC that powers the Pixel 7 Pro. It’s no secret that the Pixel 6 and 6 Pro got off to a rocky start last year, thanks — at least in part — to the switch away from Qualcomm. With a year’s worth of experience under its belt, I’m hoping that the Tensor series is nothing but smooth sailing from here, though we’ll have to see how the next few months fare before making a concrete judgment.
+
+From a technical perspective, Tensor G2 isn’t all that different from the chip found in the Pixel 6 Pro. The CPU still relies on two Cortex-X1 cores and four Cortex-A55 cores, with two Cortex-A78 cores replacing the A76 ones from last year. The X1 cores also have some very slight improvements to clock speed for better performance. I didn’t notice any differences in day-to-day use, but I never really found the Pixel 6 slow, so there’s no surprise there. It’s still based on Samsung’s 5nm process, too — no changes there.
+
+Google has swapped to ARM’s Mali-G710, the same GPU found in the Dimensity 9000, though I didn’t notice any difference in gaming performance. I tried out League of Legends: Wild Rift, but aside from the device getting warm during gameplay, I didn’t experience any stutter or slowdown during either match.
+
+This is as good a time as any to bring up temperatures. Just like its predecessor, the Pixel 7 Pro gets hot during prolonged use, and I’m not just talking about gaming. Keeping the camera open, navigating around a city block, even just browsing through Twitter for a while — this phone runs on the hot side. A case really helps keep this under control, preventing your palm from feeling the heat in most situations. Still, it’s unfortunate that Tensor continues to run on the hot side, especially compared to the Snapdragon 8+ Gen 1 found in the Galaxy Z Fold 4.
+
+Really, Tensor G2’s biggest leap in performance comes from its namesake: the Tensor Processing Unit, or TPU. It’s designed to handle all of the machine learning processes Google wants to bring to its smartphone lineup, and according to the company, it’s a whopping 60% more powerful this year. That’s a jump in performance that’s difficult to prove, but considering some of the skills the Pixel 7 Pro brings to the table this year — especially as it concerns photos — I’m inclined to believe it.
+
+Outside of the processor, the Pixel 7 Pro’s internals match most other flagship Android phones on the market right now. It pairs 12GB of RAM with 128GB, 256GB, or 512GB of storage. As with most flagship phones, you won’t find a microSD card slot here, so make sure you plan ahead when ordering.
+
+Modem performance
+It’s worth devoting some attention to the modem, more than we usually would in a smartphone review. Google’s previous flagship smartphone struggled with modem performance, leading to slower download speeds and weaker connections for countless users while also contributing to battery drain issues. The Pixel 7 Pro does use a different modem, albeit one still made by Samsung. I’d like to do some more testing here — we’ve had the phones for less than a week as our review goes live, and it’s been difficult to really put network performance through the wringer — but here’s what I’ve observed so far.
+
+In my first round of testing, pitting the Pixel 7 Pro against the Pixel 6, last year’s phone actually held a slightly stronger signal on 5G, despite both phones at max bars. Speed tests returned similar results, and, anecdotally, the performance on each Pixel felt similar when loading videos on YouTube.
+
+My second round of testing was in a nearby park, and this time, the Pixel 7 Pro managed to tie or outperform the Pixel 6. While the 7 Pro experienced a spike in RSRP from around -110dBm to -90dBm, its predecessor failed to do the same. That said, after about thirty seconds or so, it fell back to lower signal strength. None of these numbers are particularly impressive, though that might have as much to do with T-Mobile’s 5G network in my area as it does for the actual devices.
+
+Left: Pixel 7 Pro. Right: Pixel 7.
+
+I made an effort to test Google’s hardware against the Qualcomm modems in two recent Samsung phones: a Galaxy S21 and a Galaxy Z Fold 4. The foldable was unable to switch into a 5G-only mode at all, while the S21 was unable to connect to T-Mobile in 5G-only mode, despite using the same SIM card. As a backup, I tried my Pixel 4a 5G, which uses Qualcomm’s older Snapdragon X52 modem, and my results were mixed. I did have a stronger signal on band N71, but it occasionally cut out, and it never managed to detect band N38.
+
+I think you should take my early impressions with a grain of salt, unfortunately. I’ve never noticed any major network issues on T-Mobile, at least in my neck of the woods, which doesn’t make me the best candidate to examine whether or not the Pixel 7 Pro’s modem is improved over the Pixel 6. While the cell signal at my house is weak, the same is true for Verizon on various non-Google devices, so it’s hard to chalk that up to my location. If you’ve experienced issues with the Pixel 6’s modem, I’m not confident in saying the Pixel 7 will fix it. We’ll need to conduct a few more comparisons — specifically between different devices in different locations. Look for a dedicated post in the near future.
+
+Battery life
+I’ve been more than a little underwhelmed by the battery life offered here. My daily driver for much of the last year — the Pixel 6 — has never been a battery champ, and it’s only gotten worse over time. Right now, I’m seeing similar results from the Pixel 7 Pro in its earliest days, which doesn’t bode well for future performance.
+
+Don't trust that screen-on time — it includes when I was charging the phone the previous night.
+
+In my first few days with the 7 Pro, I didn't end a single day above 20% on a charge. On all but one of these days, these numbers have included plugging the phone into my car for Android Auto. My screen-on times have varied, but according to Android’s (nerfed) battery stats, I’m averaging about five hours a day at these rates. I’ve also captured a ton of photos, a handful of videos, and listened to music and podcasts on Spotify and Pocket Casts, respectively.
+
+Since this review was first published, I've used the phone for two additional weeks, and it's given me some more insight here. I do think that Adaptive Battery has finally kicked in, giving me better performance than what I was seeing in my earliest days with this phone. Although there are definitely days where I'm reaching for the charger, other times I'd crawl into bed with 40% remaining. It's a level of inconsistency that I have trouble putting any faith in, the ultimate definition of "your mileage may vary."
+
+Personally, I'm comfortable with my original assessment of this phone's battery: it's just good enough to get you through a day, but I'd keep a battery pack handy if you're going to be away from a charger for long periods of time. Hell, without some ultra-fast charging speeds to back it up, some buyers might need to carry a charger in their backpack throughout the day, just in case.
+
+Google Pixel 7 Pro: Cameras
+As with any Pixel phone, the cameras are the real star of the show. I can’t imagine anyone will be too surprised to learn that the main 50MP sensor — which outputs a 12.5MP image — takes impressive shots. It’s the same 1/1.31” sensor Google used last year, and with some supplemental power from Tensor G2, it’s as good as ever.
+
+I’ll be frank: when it comes to taking photos, I prefer relying on auto mode over all else. I’ve never had much of an eye for lighting or composition, despite going to school for video production (I was a better editor). To me, this makes Google’s focus on computational photography perfect. I line up the shot, tap the shutter button, and Google takes care of everything behind the scenes. If you’re someone who wants to adjust ISO and exposure levels, you might be better off with something from Samsung, or even a full-fledged mirrorless camera. For the rest of us — and for most of the smartphone-buying audience, I’d imagine — the Pixel’s ability to make me look like I know what I’m doing is unmatched.
+
+Camera samples from the main sensor at 1x.
+
+As always, I haven’t edited these shots in any way (aside from throwing a watermark on them). Colors look vibrant without appearing oversaturated, an issue I’ve run into recently while shooting with an iPhone 14 Pro Max. Google also avoids oversharpening images to an excessive amount while keeping plenty of detail in each shot.
+
+The Pixel 7 Pro also relies on the main sensor for 2x shots, simply cropping in rather than switching lenses. You could theoretically crop images on your own, though this mode saves you the trouble. Shooting at 2x is pretty fun; it gets you closer to the action without any noticeable sacrifice in quality.
+
+Camera samples cropped at 2x.
+
+Once you zoom in at 5x, the phone swaps to a 48MP f/3.5 telephoto — everything else before this is using a combination of data from the primary and telephoto lens, which still manages to look great in action. It’s far less sensitive to light, which might make some shots look dark or noisy compared to daytime photos. In fact, depending on how dim the room is, Google’s algorithm may keep you on the primary lens without notifying you, even after you’ve zoomed past 5x. Besides comparing image quality, the only way to tell between the two is to look at the information captured in the final photo.
+
+Camera samples using the 5x telephoto lens.
+
+Coming from the Pixel 6, I’ve really enjoyed using the telephoto lens this year. The amount of detail you can capture in 5x is truly spectacular, and despite my fondness for the smaller phone this year, I’m not sure I can go back to a Pixel without it. It’s not too different from the 4x lens on the Pixel 6 Pro from last year, though, and it’s certainly not a reason to upgrade on its own.
+
+The real story this year is Super Res Zoom, and it’s as impressive in real life as it sounds on paper — with some serious caveats. I’ve found it works really well on buildings in the daytime, which would explain why Google’s first demo of this feature was showing off this exact use case. Zooming in on the top of Buffalo’s city hall, I was surprised how much detail was kept in a shot that would look unusable on any other device. While it’s certainly soft, the Pixel 7 Pro managed to remove most of the noise from the image while keeping the colors and shapes of the building’s exterior intact. It’s even better on an image captured somewhere between 10x and 30x, the range I imagine most people will find themselves in when capturing images.
+
+Some Super Res Zoom shots, mostly at 30x.
+
+Unfortunately, other zoom attempts weren’t quite as clean. Photos of a statue outside my local history museum looked great using the native 5x telephoto lens, but things got messy once I started to zoom in further. By 30x, the entire image started to look like an oil painting, with colors and textures smearing together.
+
+As you’d probably expect, Super Res Zoom loses some of its luster once the sun goes down. It’s not unusable on brighter objects at night, but don’t expect the same level of quality.
+
+Speaking of nighttime photography, Night Sight is back and better than ever, featuring improved performance and a new way to adjust the exposure time. In nearly every instance, maxing out the exposure time created the best possible image, though being able to adjust it manually is still a welcome addition. Google also says Night Sight is faster, but frankly, with the exposure pushed to the max, I didn’t really notice a massive difference in speed. Night Sight never felt all that slow to me, though, so your mileage may vary.
+
+Some Night Sight and low-light shots.
+
+Unlike last year, Google is using two different ultra-wide lenses on its 2022 phones. The Pixel 7 keeps the 114˚ lens, while the Pixel 7 Pro gets upgraded to nearly 126˚. In comparing the two phones, the wider angle is all too obvious — in fact, the Pixel 7’s shot looks like the standard wide lens compared to the 7 Pro.
+
+The Pixel 7's ultra-wide camera vs. the Pixel 7 Pro's upgraded one.
+
+This upgraded ultra-wide shooter also helps deliver a real Macro Mode to this phone, something not available on the smaller model. I’m not in love with it; I think it works fine for flowers, plants, and other objects found outside during the day, but photos looked noisy and low-quality in indoor lighting.
+
+I want to get to my favorite feature, one that has nothing to do with any of the lenses on the back of the Pixel 7 Pro. Photo Unblur is here, bringing Face Unblur to a whole new level. Although this tool is limited to devices running on Tensor G2 — presumably because of the increased TPU performance, though it’s possible Google simply wanted an exclusive feature for its shiny new phones — it’s actually a tool built into the Photos app. It’s available for any photo, regardless of when, when, or how it was taken.
+
+Some Photo Unblur samples (the ones that don't feature embarassing shots of my friends). Blurred original image on the left, unblurred copy on the right. Most of these photos were captured between 2013 and 2015.
+
+I’ve been feeding Photo Unblur a ton of old photos over the last couple of days, most of them taken nearly a decade ago on devices like the Galaxy Nexus. I’ve been astounded by what it’s available to recover, especially on low-resolution images that never looked good. Memories of my high school friends have been restored back to a quality that gives me a better idea of what those days actually looked like. It’s honestly remarkable. On photos taken with better hardware, I’d go as far as to say they’re print-worthy. Otherwise, they’re better — albeit still low-quality — versions of your photo collection.
+
+Really, Photo Unblur has one issue (besides its exclusivity). For whatever reason, Google saves these restored images as a separate copy, one without much metadata. Location and device data are both cleared, and the new version counts against your cloud storage quota. While I understand saving it as a new version, I hope Google starts keeping this metadata in the future.
+
+1x, .7x, and a night selfie shot in nearly total darkness.
+
+As for the front-facing cam, it's as good as you'd expect. Personally, I prefer to shoot with the ultra-wide option enabled — 0.7x feels right for selfies — but either option takes excellent, detail-rich photos. Just keep in mind that it's not a miracle worker at night. If you try to take a shot in near-black, it won't be able to perform to the same levels as the main camera on the back.
+
+In the weeks since this review was first published, I took the time to compare the Pixel 7 Pro's video recording capabilities to the iPhone 14 Pro Max, a phone many in the industry consider to be leading the charge into mobile video capture. My early impressions remain true: standard 1080p and 4K recordings look pretty great, and stabilization improvements helped keep things steady even while on the move. I actually preferred the more saturated look the Pixel 7 Pro gave me over the iPhone; it kept the autumn leaves looking crisp and vibrant.
+
+Unfortunately, even after dropping Google’s 10-bit HDR captures into a video editor, the mode didn’t impress me. In my initial review period, I recorded back to back 4K videos — one with 10-bit HDR, one without — and the HDR-enabled video looks overexposed and desaturated by default compared to the standard capture. I just don't see the point in shooting in this mode, especially since I was unable to bring much life back to the shot while color correcting the footage in post. Frankly, I think you're better off sticking to the standard recording modes — there's a reason Google left this setting off by default.
+
+I also found time to compare Google's Cinematic Mode to Apple's, and the results left me pretty cold. When I was recording the footage, I was far more impressed by the Pixel, as the blur stood out more on its display. You could really see the difference between what was in focus and what wasn't, compared to the capture on the iPhone, where I occasionally had difficulty telling whether I'd properly shifted focus.
+
+That all changed once I threw the videos into Premiere. Apple's more subtle effect might've failed to impress me on the phone itself, but it was the obvious winner in a side-by-side battle on a bigger screen. Not only did the iPhone's capture look more authentic, but the Pixel's blur was so caked on, it looked like a bad effect enabled in post-production — think Google Meet's blur abilities. Any slight movement immediately revealed jagged lines as it struggled to keep its subject separated from the background, something the iPhone's video did with ease. You'll also need to keep still while shooting with Cinematic Mode, since it struggles to stay focused with movement. It's also worth noting that the iPhone can use this mode in 4K, while Google's is restricted to 1080p.
+
+Google Pixel 7 Pro: Should you buy it?
+Ultimately, I think the decision between the Pixel 7 and Pixel 7 Pro is harder than ever this year. Both phones, in my opinion, are worth your attention — they’re two of the best Android phones of 2022, without a doubt. But unlike last year, I don’t think telling everyone to save $300 and grab the cheaper model is necessarily good advice.
+
+For a lot of people, the Pixel 7 might be enough. If you don’t consider yourself much of a photographer — or you really only use the primary lens on your smartphone — I think the $600 option will serve you well. But I’ve had so much fun shooting with the telescope and ultra-wide lenses over the last few weeks that, whenever I inevitably switch to the smaller model for a closer look, I know I’ll miss having those features.
+
+Unfortunately, anyone who prefers smaller phones is stuck choosing between pocketability and a robust featureset, but it’s nothing new to the industry. If you don’t mind working around some mediocre battery life and some questionable design decisions, the Pixel 7 Pro is a great choice. It’s fast, it features a class-leading camera, and the added software tweaks make a real difference in day-to-day use. At the end of the day, it’s a better version of a phone that our readers deemed worthy of calling the best device of 2021. I wouldn’t be surprised if the Pixel 7 Pro follows in its tracks.
+
+Buy it if…
+
+You need an excellent telephoto lens.
+You want the biggest screen available on a Pixel.
+You want (mostly) reliable software updates for years to come.
+Don’t buy it if…
+
+You want multi-day battery life.
+You’re looking for a smaller phone with a sleek design.
+You aren’t much of a photographer, or don’t plan on zooming beyond 2x in your photos.
+UPDATE: 2022/10/28 12:00 EST BY WILL SATTELBERG
+Updated with more impressions
+
+Now that we've had more time with the phone, our review has been updated with more impressions of the Pixel 7 Pro's battery life, front-facing camera, video recording capabilities, and overall software experience.
+
+FAQ
+Q: How does the Google Pixel 7 Pro compare to the Pixel 7?
+The Pixel 7 Pro is a larger version of the Pixel 7, with polished metal, a curved display, and — perhaps most importantly — an improved camera array. In addition to a wider ultra-wide lens, the Pixel 7 Pro also includes a 5x telephoto sensor that makes shooting far away objects better than ever. With Super Res Zoom, you can hit up to 30x, compared to just 8x on the smaller phone. Otherwise, the Pixel 7 Pro and Pixel 7 are relatively similar, and with a $300 difference between them, plenty of shoppers will have to make a hard decision: better lenses or more money in their pocket.
+
+Q: How does the Google Pixel 7 Pro compare to the Pixel 6 Pro?
+The Pixel 7 Pro and Pixel 6 Pro share the same basic design, with a few minor differences. Holding the phones next to each other, it’s obvious the 7 Pro is slightly smaller than its predecessor, with a less severe curve along its screen. The camera bar is now covered in polished metal rather than exposed glass. The ultra-wide lens is much wider than the previous generation, and the telephoto lens has been upgraded from 4x to 5x. It also features some new software features exclusive to Tensor G2, including Photo Unblur, Macro Mode, and 30x Super Res Zoom.
+
+Q: How does the Google Pixel 7 Pro compare to the Samsung Galaxy S22 Ultra?
+The Pixel 7 Pro and the Galaxy S22 Ultra are bound to go head-to-head with each other this holiday season, especially as sales bring Samsung’s flagship closer to the Pixel’s $900 mark. Aside from Google’s phone being cheaper, it sports better image quality and faster software updates, specifically when it comes to major OS upgrades. However, the S22 Ultra’s hardware and design can’t be beaten, and its bundled S Pen is a productivity dream. Still, if you’re trying to decide between the two, you might be better off waiting for the Galaxy S23, rumored for a January launch.
+
