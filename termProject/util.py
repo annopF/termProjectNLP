@@ -1,9 +1,8 @@
 from tokenizer import selectTokenizer
-import spacy
 from ngram import *
 import numpy as np
 import matplotlib.pyplot as plt
-
+import spacy
 #clean token by removing words listed here
 #return a list of cleaned tokenized text 
 def cleanToken(token):
