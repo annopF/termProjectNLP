@@ -1,0 +1,6 @@
+KNOWN ISSUE:
+1. If the input text contains ’ tokenizer won't work properly. Current tokenizer only supports '  
+EX.   Original: it’s --> Tokenized: ("it","’s")
+      Original: it's --> Tokenized: ("it's")
+     
+2. 
