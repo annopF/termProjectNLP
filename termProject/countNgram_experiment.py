@@ -6,7 +6,6 @@ from nltk.collocations import *
 from nltk.lm import NgramCounter
 from nltk.tokenize import *
 from nltk import *
-import spacy
 import pandas as pd
 
 apply_frequency = 5 #set number of finder.apply_freq_filter
@@ -17,7 +16,7 @@ maxB = 20 #set maximum number of bigrams to print
 maxT = 10 #set maximum number of trigrams to print
 
 #change path to input text file here
-raw = open("F:/Work Folder/KMUTT/NLP/codingAssNLP/pixeltext.txt",encoding="UTF-8").read() 
+raw = open("F:/Work Folder/KMUTT/NLP/codingAssNLP/sampletext.txt",encoding="UTF-8").read() 
 #raw = open("F:/Work Folder/KMUTT/SeniorProject/nlpSPX/dataset/ieltsText/ie4.txt",encoding="UTF-8").read() 
 
 #tokenize text using the specified tokenizer (see tokenizer.py for all available options)
@@ -57,32 +56,42 @@ res_tg_rf = [[item,fdistT[item[0]]] for item in tg_rf][:maxT]
 res_tg_pmi = [[item,fdistT[item[0]]] for item in tg_pmi][:maxT] 
 res_tg_chi = [[item,fdistT[item[0]]] for item in tg_chi][:maxT] 
 
-
-""" for item in bg_ll:
-    res_bg_ll.append([item,fdist[item[0]]]) 
- """
+ug = unigram(maxU,tok)
 
 #create dataframe of the following structure: [(("ngram1","ngram2"),score),occurrence]
 data = {"Likelihood":res_bg_ll[:maxB],"Raw Freq":res_bg_rf[:maxB],"PMI":res_bg_pmi[:maxB],"Chi Square":res_bg_chi[:maxB], "Count":bg_ct[:maxB]}
 data2 = {"Likelihood":res_tg_ll[:maxT],"Raw Freq":res_tg_rf[:maxT],"PMI":res_tg_pmi[:maxT],"Chi Square":res_tg_chi[:maxT], "Count":tg_ct[:maxT]}
+data3 = {"Unigram":ug}
 
 df = pd.DataFrame(data)
 df2 = pd.DataFrame(data2)
+df3 = pd.DataFrame(data3)
 
 print("UNIGRAM ------------------------------------------------------------------------------------------------------------------------------------------")
-print (unigram(maxU,tok))
+print (df3)
 print("BIGRAM ------------------------------------------------------------------------------------------------------------------------------------------")
 print (df) 
 print("TRIGRAM ------------------------------------------------------------------------------------------------------------------------------------------")
 print(df2)
-
 #prepare data for chart ploting by
 #creating a dict of ngram vs freq -> {(ngram1,ngram2):count} 
-out = {}
-for item in res_bg_ll:
-    out[item[0][0]] = item[1]
+out_bg = {}
+for item in res_bg_rf:
+    out_bg[item[0][0]] = item[1]
 
-out = dict(sorted(out.items(),key = lambda x: x[1], reverse = True))
+out_tg = {}
+for item in res_tg_rf:
+    out_tg[item[0][0]] = item[1]
+
+out_ug = {}
+for item in res_tg_rf:
+    out_ug[item[0][0]] = item[1]
+
+out_bg = dict(sorted(out_bg.items(),key = lambda x: x[1], reverse = True))
+out_tg = dict(sorted(out_tg.items(),key = lambda x: x[1], reverse = True))
+out_ug = dict(ug)
 
 #plot chart
-plotFreq(out.values(),out.keys())
+plotFreq(out_bg.values(),out_bg.keys())
+plotFreq(out_tg.values(),out_tg.keys())
+plotFreq(out_ug.values(),out_ug.keys())
